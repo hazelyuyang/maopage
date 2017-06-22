@@ -1,0 +1,33 @@
+@import "base/variables";
+
+body {
+  color: $font-color;
+  font-family: $primary-font;
+  font-weight: 400;
+  h1 {
+    color: #333;
+    font-size: $h1;
+    line-height: $h1;
+    letter-spacing: 1px;
+    font-weight: 400;
+  }
+  h2 {
+    color: #424242;
+    font-size: $h2;
+    line-height: $h2;
+    font-weight: 500;
+    border-bottom: 1px solid lighten(black, 90%);
+    margin-top: 48px;
+    padding-bottom: 12px;
+  }
+  h3 {
+    font-weight: 500;
+  }
+  p {
+    font-size: $p;
+  }
+  a {
+    color: #8B8B8B;
+    text-decoration: none;
+  }
+}

@@ -1,0 +1,12 @@
+@import "libaries/neat/neat";
+
+#main {
+   @inlcude outer-container(1280px);
+   .sidebar {
+     @include span-columns(4 of 12);
+   }
+   .content {
+     @include span-columns(8 of 12);
+   }
+
+}

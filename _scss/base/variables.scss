@@ -1,0 +1,26 @@
+// Color
+$primary-color: #811DFF;
+$font-color: #383838;
+$white: #fff;
+$black: #000;
+
+// Font
+@import url('https://fonts.googleapis.com/earlyaccess/notosanstc.css');
+$primary-font: 'Noto Sans TC', sans-serif;
+$seconday-font: 'Noto Sans TC', sans-serif;
+$font-size: 15px;
+$p: $font-size;
+$h1: $font-size * 2;
+$h2: $font-size * 1.2;
+
+// Margin
+$margin: 6px;
+$marign-small: $margin * 2;
+$margin-medium: $margin * 4;
+$margin-large: $margin * 6;
+
+// Padding
+$padding: 6px;
+$padding-small: $padding * 2;
+$padding-medium: $padding * 4;
+$padding-large: $padding * 6;

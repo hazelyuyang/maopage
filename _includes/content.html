@@ -1,0 +1,8 @@
+{% for post in site.posts %}
+<div class="post">
+  <h1 id="{{ post.anchor }}">{{ post.title }}</h1>
+  <div>
+    {{ content }}
+  </div>
+</div>
+{% endfor %}
