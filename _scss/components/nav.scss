@@ -1,12 +1,8 @@
 @import "components/font";
 @import "libaries/neat/neat";
-// @import "libaries/bourbon/bourbon";
+
 
 // Header navigation
-body {
-  // background-color: #F0EDF5;
-}
-
 #header {
   background: white;
   border-bottom: 1px solid lighten($black, 90%);
@@ -73,19 +69,27 @@ body {
     @include span-columns(12);
     .sidebar {
       @include span-columns(3 of 12);
-      height: 100%;
+      @include media($tablet) {
+          @include span-columns(4);
+          // @include span-columns(12 of 12);
+          // background: red;
+          position: relative;
+          padding: 0;
+          width: 100%;
+          position: inherit;
+        }
+      // height: 100%;
       overflow-x: hidden;
       overflow-y: auto;
-      padding-right: $padding-small;
+      // padding-right: $padding-small;
       position: fixed;
       z-index: 30px;
       ul {
         list-style: none;
-
         li {
-          padding: $padding-small 0;
           a {
             display: block;
+            padding: $padding-small 0;
             &:hover {
               color: $primary-color;
             }
@@ -105,7 +109,13 @@ body {
       height: 100%;
       overflow-x: hidden;
       overflow-y: auto;
-      // max-width: 800px
+      @include media($tablet) {
+          @include span-columns(4);
+          border-radius: 0;
+          width: 100%;
+          margin-left: 0;
+          padding: $padding-small $padding-medium;
+      }
       .post {
         margin: $margin-medium*2 auto;
         a {
@@ -116,7 +126,7 @@ body {
   }
 }
 
-
+// 768px
 
 // nav {
 //   background: #fff;

@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Maopage
+title: Meowbook
 email: hazelyuyang@gmail.com
 description: 這是一個教你如何搭太空船前往喵星球的網站。
 baseurl: "" # the subpath of your site, e.g. /blog

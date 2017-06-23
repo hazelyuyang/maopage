@@ -1,6 +1,6 @@
 // Color
 $primary-color: #811DFF;
-$font-color: #383838;
+$font-color: #555;
 $white: #fff;
 $black: #000;
 
@@ -24,3 +24,7 @@ $padding: 6px;
 $padding-small: $padding * 2;
 $padding-medium: $padding * 4;
 $padding-large: $padding * 6;
+
+// Screen
+$mobile: new-breakpoint(max-width 540px 4);
+$tablet: new-breakpoint(max-width 720px 8);

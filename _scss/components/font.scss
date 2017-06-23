@@ -1,9 +1,10 @@
 @import "base/variables";
 
 body {
+  background: #FCF9FF;
   color: $font-color;
   font-family: $primary-font;
-  font-weight: 400;
+  font-weight: 300;
   h1 {
     color: #333;
     font-size: $h1;
@@ -15,7 +16,7 @@ body {
     color: #424242;
     font-size: $h2;
     line-height: $h2;
-    font-weight: 500;
+    font-weight: 400;
     border-bottom: 1px solid lighten(black, 90%);
     margin-top: 48px;
     padding-bottom: 12px;
@@ -29,5 +30,8 @@ body {
   a {
     color: #8B8B8B;
     text-decoration: none;
+    &:hover {
+      font-weight: 400;
+    }
   }
 }
