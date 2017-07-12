@@ -5,3 +5,13 @@
     max-width: 720px;
     padding-bottom: $padding-medium;
 }
+
+table {
+  width: 100%;
+}
+
+
+table, th, td {
+    border: 1px solid lighten(black, 70%);
+    padding: $padding-small;
+}

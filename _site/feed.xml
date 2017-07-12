@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-03T19:34:50+08:00</updated><id>http://localhost:4000/</id><title type="html">Meowbook</title><subtitle>這是一個教你如何搭太空船前往喵星球的網站。</subtitle><entry><title type="html">認識喵星人</title><link href="http://localhost:4000/jekyll/update/2017/06/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="認識喵星人" /><published>2017-06-17T21:00:26+08:00</published><updated>2017-06-17T21:00:26+08:00</updated><id>http://localhost:4000/jekyll/update/2017/06/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/17/welcome-to-jekyll.html">&lt;h2 id=&quot;貓咪的選擇&quot;&gt;貓咪的選擇&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-12T19:19:30+08:00</updated><id>http://localhost:4000/</id><title type="html">Meowbook</title><subtitle>這是一個教你如何搭太空船前往喵星球的網站。</subtitle><entry><title type="html">認識喵星人</title><link href="http://localhost:4000/jekyll/update/2017/06/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="認識喵星人" /><published>2017-06-17T21:00:26+08:00</published><updated>2017-06-17T21:00:26+08:00</updated><id>http://localhost:4000/jekyll/update/2017/06/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/17/welcome-to-jekyll.html">&lt;h2 id=&quot;貓咪的選擇&quot;&gt;貓咪的選擇&lt;/h2&gt;
 
 &lt;p&gt;推薦：花色任你挑的米克斯。&lt;/p&gt;
 &lt;ul&gt;
@@ -29,43 +29,48 @@
 &lt;h2 id=&quot;鮮食&quot;&gt;鮮食&lt;/h2&gt;
 
 &lt;h2 id=&quot;飼料&quot;&gt;飼料&lt;/h2&gt;</content><author><name></name></author><summary type="html">生食</summary></entry><entry><title type="html">養貓的準備</title><link href="http://localhost:4000/jekyll/update/2017/06/17/have-a-cat.html" rel="alternate" type="text/html" title="養貓的準備" /><published>2017-06-17T21:00:26+08:00</published><updated>2017-06-17T21:00:26+08:00</updated><id>http://localhost:4000/jekyll/update/2017/06/17/have-a-cat</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/17/have-a-cat.html">&lt;h2 id=&quot;讓貓咪安心的空間&quot;&gt;讓貓咪安心的空間&lt;/h2&gt;
-&lt;p&gt;貓咪是&lt;strong&gt;比較敏感&lt;/strong&gt;的動物，通常剛到一個不熟悉的地方時都會神經緊繃、疑神疑鬼，非常容易受到驚嚇，但對新環境同時充滿好奇。建議你可以先準備一間&lt;strong&gt;貓咪專屬的房間或小空間&lt;/strong&gt;，讓貓咪從小範圍的空間開始適應家裡的環境。記得一開始&lt;strong&gt;不要一直打擾貓咪&lt;/strong&gt;，讓貓咪自己慢慢適應，只須適時關心飲食和排泄狀況即可。根據貓咪適應的情形，約莫 2-4 週之後，可以讓貓咪開始去探索家中其他的空間。如果貓咪願意，她會自己踏出舒適圈，好奇地探索新的世界。&lt;/p&gt;
+&lt;p&gt;貓咪是&lt;strong&gt;比較敏感&lt;/strong&gt;的動物，通常剛到一個不熟悉的地方時都會神經緊繃、疑神疑鬼，非常容易受到驚嚇，但對新環境同時充滿好奇。建議你可以先準備一間&lt;strong&gt;貓咪專屬的房間或小空間&lt;/strong&gt;，讓貓咪從小範圍的空間開始適應家裡的環境。記得一開始&lt;strong&gt;不要一直打擾貓咪&lt;/strong&gt;，讓貓咪自己慢慢適應，只須適時關心飲食和排泄狀況即可。根據貓咪適應的情形，約莫 2-4 週之後，可以打開房門讓貓咪開始去探索家中其他的空間。如果貓咪願意，她會自己踏出舒適圈，好奇地探索新的世界。&lt;/p&gt;
 
-&lt;p&gt;記得在貓咪專屬的小空間裡放置&lt;strong&gt;貓碗&lt;/strong&gt;、&lt;strong&gt;貓沙盆&lt;/strong&gt;、一個&lt;strong&gt;安心的小窩&lt;/strong&gt;和一些小玩具，相信你的貓咪很快就會愛上這個新家。&lt;/p&gt;
+&lt;p&gt;記得在貓咪專屬的小空間裡放置&lt;strong&gt;貓碗&lt;/strong&gt;、&lt;strong&gt;貓砂盆&lt;/strong&gt;、一個&lt;strong&gt;安心的小窩&lt;/strong&gt;和一些小玩具，相信你的貓咪很快就會愛上這個新家。&lt;/p&gt;
 
-&lt;h2 id=&quot;用品&quot;&gt;用品&lt;/h2&gt;
+&lt;h2 id=&quot;基本用品&quot;&gt;基本用品&lt;/h2&gt;
 
-&lt;p&gt;貓砂與貓砂盆：依照你預計使用的貓砂，有不同的貓砂盆可以選擇。&lt;/p&gt;
+&lt;h4 id=&quot;貓砂與砂盆&quot;&gt;貓砂與砂盆&lt;/h4&gt;
+&lt;p&gt;依照使用的貓砂種類，選擇不同用途的貓砂盆。&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;貓砂&lt;/th&gt;
-      &lt;th&gt;貓砂盆&lt;/th&gt;
       &lt;th&gt;特性&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;貓砂盆&lt;/th&gt;
+      &lt;th&gt;使用心得&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;豆腐砂&lt;/td&gt;
+      &lt;td&gt;減少垃圾量、粉塵少、吸收性佳、用量省、可直接倒入馬桶沖掉&lt;/td&gt;
       &lt;td&gt;雙層貓砂盆&lt;/td&gt;
-      &lt;td&gt;環保、不飄塵、吸收性佳&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;礦砂&lt;/td&gt;
-      &lt;td&gt;單層貓砂盆&lt;/td&gt;
       &lt;td&gt;不環保、飄塵、吸收性佳、價格低&lt;/td&gt;
+      &lt;td&gt;單層貓砂盆&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;木屑砂&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;減少垃圾量、粉塵少、用量省、可直接倒入馬桶沖掉&lt;/td&gt;
+      &lt;td&gt;雙層貓砂盆&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://goo.gl/AZo0C9&quot;&gt;參考心得&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&quot;食物&quot;&gt;食物&lt;/h2&gt;</content><author><name></name></author><summary type="html">讓貓咪安心的空間 貓咪是比較敏感的動物，通常剛到一個不熟悉的地方時都會神經緊繃、疑神疑鬼，非常容易受到驚嚇，但對新環境同時充滿好奇。建議你可以先準備一間貓咪專屬的房間或小空間，讓貓咪從小範圍的空間開始適應家裡的環境。記得一開始不要一直打擾貓咪，讓貓咪自己慢慢適應，只須適時關心飲食和排泄狀況即可。根據貓咪適應的情形，約莫 2-4 週之後，可以讓貓咪開始去探索家中其他的空間。如果貓咪願意，她會自己踏出舒適圈，好奇地探索新的世界。</summary></entry></feed>
+&lt;h4 id=&quot;水碗與食盆&quot;&gt;水碗與食盆&lt;/h4&gt;
+
+&lt;h4 id=&quot;貓抓板&quot;&gt;貓抓板&lt;/h4&gt;
+
+&lt;h2 id=&quot;食物&quot;&gt;食物&lt;/h2&gt;</content><author><name></name></author><summary type="html">讓貓咪安心的空間 貓咪是比較敏感的動物，通常剛到一個不熟悉的地方時都會神經緊繃、疑神疑鬼，非常容易受到驚嚇，但對新環境同時充滿好奇。建議你可以先準備一間貓咪專屬的房間或小空間，讓貓咪從小範圍的空間開始適應家裡的環境。記得一開始不要一直打擾貓咪，讓貓咪自己慢慢適應，只須適時關心飲食和排泄狀況即可。根據貓咪適應的情形，約莫 2-4 週之後，可以打開房門讓貓咪開始去探索家中其他的空間。如果貓咪願意，她會自己踏出舒適圈，好奇地探索新的世界。</summary></entry></feed>

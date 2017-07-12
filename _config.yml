@@ -23,6 +23,12 @@ github_username:  hazelyuyang
 
 # Build settings
 markdown: kramdown
+kramdown:
+    input: GFM
+highlighter: rouge
+# markdown: redcarpet
+# redcarpet:
+#   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 theme: minima
 gems:
   - jekyll-feed
