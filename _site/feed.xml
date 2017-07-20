@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-12T19:19:30+08:00</updated><id>http://localhost:4000/</id><title type="html">Meowbook</title><subtitle>這是一個教你如何搭太空船前往喵星球的網站。</subtitle><entry><title type="html">認識喵星人</title><link href="http://localhost:4000/jekyll/update/2017/06/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="認識喵星人" /><published>2017-06-17T21:00:26+08:00</published><updated>2017-06-17T21:00:26+08:00</updated><id>http://localhost:4000/jekyll/update/2017/06/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/17/welcome-to-jekyll.html">&lt;h2 id=&quot;貓咪的選擇&quot;&gt;貓咪的選擇&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-20T17:26:57+08:00</updated><id>http://localhost:4000/</id><title type="html">Meowbook</title><subtitle>這是一個教你如何搭太空船前往喵星球的網站。</subtitle><entry><title type="html">認識喵星人</title><link href="http://localhost:4000/jekyll/update/2017/06/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="認識喵星人" /><published>2017-06-17T21:00:26+08:00</published><updated>2017-06-17T21:00:26+08:00</updated><id>http://localhost:4000/jekyll/update/2017/06/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/17/welcome-to-jekyll.html">&lt;h2 id=&quot;貓咪的選擇&quot;&gt;貓咪的選擇&lt;/h2&gt;
 
 &lt;p&gt;推薦：花色任你挑的米克斯。&lt;/p&gt;
 &lt;ul&gt;
@@ -24,11 +24,7 @@
 &lt;h2 id=&quot;貓咪的作息&quot;&gt;貓咪的作息&lt;/h2&gt;
 &lt;p&gt;貓咪一天的睡眠時間大約 &lt;strong&gt;15 - 16&lt;/strong&gt; 小時。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;注意：如果貓咪突然不吃飯、不理人、不玩玩具或者亂便便，那可能需要注意貓咪是否哪裡不舒服。&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">貓咪的選擇</summary></entry><entry><title type="html">食物介紹</title><link href="http://localhost:4000/jekyll/update/2017/06/17/cat-food.html" rel="alternate" type="text/html" title="食物介紹" /><published>2017-06-17T21:00:26+08:00</published><updated>2017-06-17T21:00:26+08:00</updated><id>http://localhost:4000/jekyll/update/2017/06/17/cat-food</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/17/cat-food.html">&lt;h2 id=&quot;生食&quot;&gt;生食&lt;/h2&gt;
-
-&lt;h2 id=&quot;鮮食&quot;&gt;鮮食&lt;/h2&gt;
-
-&lt;h2 id=&quot;飼料&quot;&gt;飼料&lt;/h2&gt;</content><author><name></name></author><summary type="html">生食</summary></entry><entry><title type="html">養貓的準備</title><link href="http://localhost:4000/jekyll/update/2017/06/17/have-a-cat.html" rel="alternate" type="text/html" title="養貓的準備" /><published>2017-06-17T21:00:26+08:00</published><updated>2017-06-17T21:00:26+08:00</updated><id>http://localhost:4000/jekyll/update/2017/06/17/have-a-cat</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/17/have-a-cat.html">&lt;h2 id=&quot;讓貓咪安心的空間&quot;&gt;讓貓咪安心的空間&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;注意：如果貓咪突然不吃飯、不理人、不玩玩具或者亂便便，那可能需要注意貓咪是否哪裡不舒服。&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">貓咪的選擇</summary></entry><entry><title type="html">養貓的準備</title><link href="http://localhost:4000/jekyll/update/2017/06/17/have-a-cat.html" rel="alternate" type="text/html" title="養貓的準備" /><published>2017-06-17T21:00:26+08:00</published><updated>2017-06-17T21:00:26+08:00</updated><id>http://localhost:4000/jekyll/update/2017/06/17/have-a-cat</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/17/have-a-cat.html">&lt;h2 id=&quot;讓貓咪安心的空間&quot;&gt;讓貓咪安心的空間&lt;/h2&gt;
 &lt;p&gt;貓咪是&lt;strong&gt;比較敏感&lt;/strong&gt;的動物，通常剛到一個不熟悉的地方時都會神經緊繃、疑神疑鬼，非常容易受到驚嚇，但對新環境同時充滿好奇。建議你可以先準備一間&lt;strong&gt;貓咪專屬的房間或小空間&lt;/strong&gt;，讓貓咪從小範圍的空間開始適應家裡的環境。記得一開始&lt;strong&gt;不要一直打擾貓咪&lt;/strong&gt;，讓貓咪自己慢慢適應，只須適時關心飲食和排泄狀況即可。根據貓咪適應的情形，約莫 2-4 週之後，可以打開房門讓貓咪開始去探索家中其他的空間。如果貓咪願意，她會自己踏出舒適圈，好奇地探索新的世界。&lt;/p&gt;
 
 &lt;p&gt;記得在貓咪專屬的小空間裡放置&lt;strong&gt;貓碗&lt;/strong&gt;、&lt;strong&gt;貓砂盆&lt;/strong&gt;、一個&lt;strong&gt;安心的小窩&lt;/strong&gt;和一些小玩具，相信你的貓咪很快就會愛上這個新家。&lt;/p&gt;
@@ -70,7 +66,74 @@
 &lt;/table&gt;
 
 &lt;h4 id=&quot;水碗與食盆&quot;&gt;水碗與食盆&lt;/h4&gt;
+&lt;p&gt;選購貓碗時，建議找有與貓咪坐下時與貓咪脖子高度相當的碗架，如此一來貓咪就不必彎腰駝背地吃飯了。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;如果貓咪吃的是&lt;strong&gt;鮮食&lt;/strong&gt;或&lt;strong&gt;生食&lt;/strong&gt;，那麼準備一個碗就夠了。因為貓咪會在吃飯順便補充很多水分。&lt;/li&gt;
+  &lt;li&gt;如果貓咪吃的乾糧，除了吃飯的碗之外，須再另外準備飲水的碗;有些主人會購買&lt;a href=&quot;https://kknews.cc/pet/g2r5a6y.html&quot;&gt;飲水器&lt;/a&gt;來吸引貓咪喝水。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;可參考碗架：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.truewoodstudio.com/page/desk&quot;&gt;初木&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://afushop.com.tw/GoWeb2/include/index.php?Page=3-1&amp;amp;Cate01=%E9%A4%90%E5%85%B7%E9%A1%9E&quot;&gt;AFU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h4 id=&quot;貓抓板&quot;&gt;貓抓板&lt;/h4&gt;
+&lt;p&gt;訓練貓咪使用貓抓板可以避免貓咪胡亂抓家具。&lt;/p&gt;
 
-&lt;h2 id=&quot;食物&quot;&gt;食物&lt;/h2&gt;</content><author><name></name></author><summary type="html">讓貓咪安心的空間 貓咪是比較敏感的動物，通常剛到一個不熟悉的地方時都會神經緊繃、疑神疑鬼，非常容易受到驚嚇，但對新環境同時充滿好奇。建議你可以先準備一間貓咪專屬的房間或小空間，讓貓咪從小範圍的空間開始適應家裡的環境。記得一開始不要一直打擾貓咪，讓貓咪自己慢慢適應，只須適時關心飲食和排泄狀況即可。根據貓咪適應的情形，約莫 2-4 週之後，可以打開房門讓貓咪開始去探索家中其他的空間。如果貓咪願意，她會自己踏出舒適圈，好奇地探索新的世界。</summary></entry></feed>
+&lt;p&gt;市面上的貓抓板有很多種類，目前很多人都是用紙板做成的貓抓版（如：&lt;a href=&quot;https://goo.gl/onTvYe&quot;&gt;AFU&lt;/a&gt;)；一來價格合理，二來環保。&lt;/p&gt;
+
+&lt;p&gt;通常在一般的寵物店可以購買到中國製的紙貓抓板，會有一些非比尋常的味道，而且容易掉紙屑；如果不嫌麻煩，還是建議購買台灣製的紙貓抓板吧。&lt;/p&gt;
+
+&lt;h2 id=&quot;食物&quot;&gt;食物&lt;/h2&gt;
+
+&lt;p&gt;貓咪和狗狗不一樣，是&lt;strong&gt;肉食性&lt;/strong&gt;的生物，需要非常大量的蛋白質來維持健康；所以不要逼貓咪吃素或吃很多澱粉類的食物，會導致肥胖或疾病。&lt;/p&gt;
+
+&lt;p&gt;貓咪的食物可以分為&lt;strong&gt;濕食&lt;/strong&gt;和&lt;strong&gt;乾糧&lt;/strong&gt;兩種。乾糧就是所謂的飼料，氣味很香，號稱營養均衡（是不是真的就不知道了😜）。&lt;/p&gt;
+
+&lt;p&gt;濕食介紹：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;生食：新鮮的生肉做成（雞、牛、羊、鹿、鴨和鵪鶉），裡頭會拌入其他貓咪需要的營養。&lt;/li&gt;
+  &lt;li&gt;鮮食：天然食材煮熟之後的食物。如果想自製鮮食可以參考&lt;a href=&quot;http://www.books.com.tw/products/0010613867&quot;&gt;貓咪這樣吃最健康！&lt;/a&gt;或是&lt;a href=&quot;http://www.books.com.tw/products/0010662198?loc=P_asb_002&quot;&gt;跟著寵物營養師一起做2：無添加的貓咪料理&lt;/a&gt;。&lt;/li&gt;
+  &lt;li&gt;主食罐：由飼料廠商製作的罐頭，可以當作主食每日食用。與副食罐不同的地方在於它較健康也不會導致貓咪挑食。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;種類&lt;/th&gt;
+      &lt;th&gt;優點&lt;/th&gt;
+      &lt;th&gt;缺點&lt;/th&gt;
+      &lt;th&gt;參考資訊&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;生食&lt;/td&gt;
+      &lt;td&gt;天然、新鮮、易消化吸收、營養充沛、水分充足&lt;/td&gt;
+      &lt;td&gt;需有空間夠大的冷藏庫&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dogcatstar.com/faq/&quot;&gt;汪喵星球&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;鮮食&lt;/td&gt;
+      &lt;td&gt;天然、好吃、新鮮、含水量高&lt;/td&gt;
+      &lt;td&gt;價格較高&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://miostar365.com.tw/&quot;&gt;喵星人鮮食包&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;主食罐&lt;/td&gt;
+      &lt;td&gt;方便、含水量比乾糧高、品質比乾糧好、營養&lt;/td&gt;
+      &lt;td&gt;價格較高&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://goo.gl/hq16ww&quot;&gt;主食罐品牌&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;乾糧&lt;/td&gt;
+      &lt;td&gt;方便&lt;/td&gt;
+      &lt;td&gt;含水量非常低、價格低、經常品質出包&lt;/td&gt;
+      &lt;td&gt;出於良心，不想推薦&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;想了解更多生食／濕食的資訊嗎？&lt;a href=&quot;https://www.facebook.com/groups/582622905132911/&quot;&gt;自製貓食討論區 (酒鬼的)&lt;/a&gt; 和 &lt;a href=&quot;https://www.facebook.com/groups/dogcatstar.for.cat/&quot;&gt;汪喵星球(濕食 生食餵養 貓咪專區)&lt;/a&gt; 都有許多的討論和朋友願意解答。&lt;/p&gt;</content><author><name></name></author><summary type="html">讓貓咪安心的空間 貓咪是比較敏感的動物，通常剛到一個不熟悉的地方時都會神經緊繃、疑神疑鬼，非常容易受到驚嚇，但對新環境同時充滿好奇。建議你可以先準備一間貓咪專屬的房間或小空間，讓貓咪從小範圍的空間開始適應家裡的環境。記得一開始不要一直打擾貓咪，讓貓咪自己慢慢適應，只須適時關心飲食和排泄狀況即可。根據貓咪適應的情形，約莫 2-4 週之後，可以打開房門讓貓咪開始去探索家中其他的空間。如果貓咪願意，她會自己踏出舒適圈，好奇地探索新的世界。</summary></entry></feed>
