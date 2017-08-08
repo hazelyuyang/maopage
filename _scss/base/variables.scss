@@ -15,7 +15,7 @@ $h2: $font-size * 1.2;
 
 // Margin
 $margin: 6px;
-$marign-small: $margin * 2;
+$margin-small: $margin * 2;
 $margin-medium: $margin * 4;
 $margin-large: $margin * 6;
 
@@ -28,3 +28,4 @@ $padding-large: $padding * 6;
 // Screen
 $mobile: new-breakpoint(max-width 540px 4);
 $tablet: new-breakpoint(max-width 720px 8);
+$desktop-small: new-breakpoint(max-width 1096px 12);

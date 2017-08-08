@@ -1,5 +1,6 @@
 @import "components/font";
 @import "libaries/neat/neat";
+@import "layout/grid";
 
 
 // Header navigation
@@ -9,7 +10,7 @@
   font-family: $primary-font;
   font-size: $font-size;
   padding: 0 $padding-medium;
-  width: 100%;
+  // width: 100%;
   top: 0;
   right: 0;
   height: 50px;
@@ -59,70 +60,55 @@
 }
 
 // Sidebar navigation
-#main {
-  @include outer-container(1200px);
-  font-size: $font-size;
-  position: relative;
-  // z-index: 1;
-  .container {
-    position: relative;
-    @include span-columns(12);
-    .sidebar {
-      @include span-columns(3 of 12);
-      @include media($tablet) {
-          @include span-columns(4);
-          // position: relative;
-          padding: 0;
-          width: 100%;
-          position: inherit;
-        }
-      // height: 100%;
-      overflow-x: hidden;
-      overflow-y: auto;
-      // padding-right: $padding-small;
-      position: fixed;
-      z-index: 30px;
-      ul {
-        list-style: none;
-        li {
-          a {
-            display: block;
-            padding: $padding-small 0;
-            &:hover {
-              color: $primary-color;
-            }
-          }
-        }
-      }
-    }
-    .content {
-      background-color: white;
-      border: 1px solid rgba(0,0,0, 0.08);
-      border-radius: 6px;
-      @include span-columns(9 of 12);
-      margin-top: $margin-medium;
-      margin-left: 280px;
-      padding: $padding-medium 0;
-      // position: relative;
-      height: 100%;
-      overflow-x: hidden;
-      overflow-y: auto;
-      @include media($tablet) {
-          @include span-columns(4);
-          border-radius: 0;
-          width: 100%;
-          margin-left: 0;
-          padding: $padding-small $padding-medium;
-      }
-      .post {
-        margin: $margin-medium*2 auto;
-        a {
-          color: $primary-color;
-        }
-      }
-    }
-  }
-}
+// #main {
+//   background: white;
+//   font-size: $font-size;
+//   position: relative;
+//   // z-index: 1;
+//   .container {
+//     position: relative;
+//     .sidebar {
+//       // height: 100%;
+//       overflow-x: hidden;
+//       overflow-y: auto;
+//       // padding-right: $padding-small;
+//       border: 1px solid rgba(0,0,0, 0.08);
+//       border-radius: 6px;
+//       position: fixed;
+//       margin-top: $margin-small;
+//       z-index: 30px;
+//       ul {
+//         list-style: none;
+//         li {
+//           a {
+//             display: block;
+//             padding: $padding-small 0;
+//             &:hover {
+//               color: $primary-color;
+//             }
+//           }
+//         }
+//       }
+//     }
+//     .content {
+//       // border: 1px solid rgba(0,0,0, 0.08);
+//       border-radius: 6px;
+//       margin-top: $margin-medium;
+//       margin-left: 220px;
+//       padding: $padding-medium 0;
+//       // position: relative;
+//       height: 100%;
+//       overflow-x: hidden;
+//       overflow-y: auto;
+//       .post {
+//         margin: $margin-medium*2 auto;
+//         a {
+//           color: $primary-color;
+//         }
+//       }
+//     }
+//   }
+// }
 
 // 768px
 
