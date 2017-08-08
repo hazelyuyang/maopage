@@ -1,0 +1,101 @@
+@import "libaries/neat/neat";
+
+$tablet-width-grid: (
+  media: "(min-width:376px) and (max-width: 1142px)",
+  columns: 8,
+  gutter: 20px,
+  direction: ltr,
+);
+
+$mobile-width-grid: (
+  media: "(max-width: 375px)",
+  columns: 4,
+  gutter: 20px,
+  direction: ltr,
+);
+
+$my-custom-grid: (
+  columns: 12,
+  gutter: 20px,
+  media: "(min-width:1143px) and (max-width: 1200px)",
+  direction: ltr,
+);
+
+#main {
+  background: white;
+  font-size: $font-size;
+  position: relative;
+  .container {
+    @include grid-container;
+    position: relative;
+
+    .sidebar {
+      @include grid-column(2, $my-custom-grid);
+      // height: 100%;
+      overflow-x: hidden;
+      overflow-y: auto;
+      // padding-right: $padding-small;
+      border: 1px solid rgba(0,0,0, 0.08);
+      border-radius: 6px;
+      position: fixed;
+      margin-top: $margin-small;
+      z-index: 30px;
+
+      ul {
+        list-style: none;
+        li {
+          a {
+            display: block;
+            padding: $padding-small 0;
+            &:hover {
+              color: $primary-color;
+            }
+          }
+        }
+      }
+
+      @include grid-media($tablet-width-grid) {
+        @include grid-column(8);
+        position: relative;
+        ul {
+          li {
+            a {
+              text-align: center;
+            }
+          }
+        }
+      }
+    }
+
+    .content {
+      @include grid-column(9, $my-custom-grid);
+      border-radius: 6px;
+      margin-top: $margin-medium;
+      margin-left: 220px;
+      padding: $padding-medium 0;
+      height: 100%;
+      overflow-x: hidden;
+      overflow-y: auto;
+
+      @include grid-media($tablet-width-grid) {
+        @include grid-column(8);
+        margin: 0;
+        float: none;
+        margin: $margin-medium auto;
+        position: relative;
+      }
+
+      .post {
+          max-width: 720px;
+          margin: $margin-medium*2 auto;
+          padding-bottom: $padding-medium;
+          a {
+            color: $primary-color;
+          }
+          @include grid-media($mobile-width-grid) {
+            @include grid-column(4);
+            max-width: 100%;
+        }
+    }
+  }
+}
